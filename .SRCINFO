@@ -1,6 +1,6 @@
 pkgbase = tomahawk
 	pkgdesc = A Music Player App written in C++/Qt
-	pkgver = 0.8.1
+	pkgver = 0.8.2
 	pkgrel = 1
 	url = http://tomahawk-player.org/
 	install = tomahawk.install
@@ -24,8 +24,8 @@ pkgbase = tomahawk
 	depends = websocketpp
 	provides = tomahawk
 	conflicts = tomahawk-git
-	source = http://download.tomahawk-player.org/tomahawk-0.8.1.tar.bz2
-	sha256sums = fcb6cf54f16041e1709e8a3b3963d09ec3ef79495bf94cad455a2830a0724631
+	source = http://download.tomahawk-player.org/tomahawk-0.8.2.tar.bz2
+	sha256sums = 522d2ef873f8548990ac1fc736c11dd08c347687c77d63b520f55207f19db3ae
 
 pkgname = tomahawk
 
